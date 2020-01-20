@@ -41,8 +41,8 @@ path='./data/'
 dftrain = pd.read_csv(path+'carInsurance_train.csv', encoding='utf8', sep=',')
 #dftest = pd.read_csv(path+'carInsurance_test.csv', encoding='utf8', sep=',')
 
-dftrainenc = pd.read_csv(path+'train.csv', encoding='utf8', sep=',')
-dftestenc = pd.read_csv(path+'test.csv', encoding='utf8', sep=',')
+dftrainenc = pd.read_csv(path+'train_LabelEncoding.csv', encoding='utf8', sep=',')
+dftestenc = pd.read_csv(path+'test_LabelEncoding.csv', encoding='utf8', sep=',')
 df03= dftrain['CarInsurance']
 
 #labels = np.array(df.pop('CarInsurance'))
