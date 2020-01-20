@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/freddy/Documents/GitHub/CarRandomForest/mlruns/0/748a9dee8d4b43e2b9e8f0f140030eef/artifacts
+end_time: 1579157316555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 748a9dee8d4b43e2b9e8f0f140030eef
+run_uuid: 748a9dee8d4b43e2b9e8f0f140030eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1579157309034
+status: 3
+tags: []
+user_id: freddy
